@@ -10,4 +10,4 @@ def emails():
             print(row)
             return row
 
-# emails()
+emails()
