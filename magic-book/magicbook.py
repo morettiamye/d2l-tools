@@ -16,6 +16,10 @@
 
 # When concatenating, join with "_"
 
+# Import Modules
+import course_offerings
+import email_list
+
 
 
 

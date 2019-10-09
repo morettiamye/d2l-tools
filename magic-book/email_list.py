@@ -7,6 +7,7 @@ def emails():
     with open(file_path + file_name, "r") as csvfile:
         email_list = csv.reader(csvfile)
         for row in email_list:
+            print(row)
             return row
 
 # emails()
